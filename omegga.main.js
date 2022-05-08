@@ -105,10 +105,6 @@ class Creeper {
 							}
 						}
 					}
-					/*
-					*For some reason every other method i used to check if an array contained an array didnt work so i had to resort
-					*to comming atroceties.
-					*/
 					//var includes = false;
 					//for(var egg=0;egg<brickstoremove.length;egg++) {
 						//if(brickstoremove[egg][0] === brick.position[0] && brickstoremove[egg][1] === brick.position[1] && brickstoremove[egg][2] === brick.position[2]) {
